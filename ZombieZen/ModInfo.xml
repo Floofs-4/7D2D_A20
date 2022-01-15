@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <ModInfo>
+    <Name value="ZombieZen" />
+    <Description value="Removes rage effects from all zombies." />
+    <Author value="Floofs" />
+    <Version value="1.0.0.1" />
+    <Website value="" />
+  </ModInfo>
+</xml>
